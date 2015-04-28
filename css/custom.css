@@ -1,0 +1,7 @@
+#gameDiv {
+  margin: 0 auto;
+  text-align: center;
+}
+#gameDiv canvas {
+  display: inline-block !important;
+}
